@@ -1,0 +1,17 @@
+.nav{
+    min-height: 42px;
+    background-color: rgb(221, 119, 252);
+    display: flex;
+}
+.nav-list{
+    margin: 0;
+    padding: 20px 20px;
+
+}
+.nav-item{
+    display: inline-block;
+    list-style: none;
+    color: aliceblue;
+}
+
+    
